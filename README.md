@@ -8,6 +8,12 @@ The base length of the triangle must be an odd number, and the program centers t
 - Takes an odd number input for the base of the triangle
 - Prints numbers in each row starting from 1 up to the row width
 - Properly centers the triangle in the console using spaces
+- 🎥 Demo Output
+
+![CenteredIsoscelesTrianglePattern Demo](CenteredIsoscelesTrianglePattern.gif)
+
+*This simple Java program prints a Centered IsoscelesTriangle of numbers.*
+
 
 ## How to Run
 
@@ -15,8 +21,3 @@ The base length of the triangle must be an odd number, and the program centers t
 git clone https://github.com/AtikHD/CenteredIsoscelesTrianglePattern.git
 2. Navigate to the project directory:
 4. Run the program:
-🎥 Demo Output
-
-![CenteredIsoscelesTrianglePattern Demo](CenteredIsoscelesTrianglePattern.gif)
-
-*This simple Java program prints a Centered IsoscelesTriangle of numbers.*
