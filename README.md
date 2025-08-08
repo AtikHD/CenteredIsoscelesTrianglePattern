@@ -10,7 +10,7 @@ The base length of the triangle must be an odd number, and the program centers t
 - Properly centers the triangle in the console using spaces
 - 🎥 Demo Output
 
-![CenteredIsoscelesTrianglePattern Demo](CenteredIsoscelesTrianglePattern.gif)
+![CenteredIsoscelesTriangle Demo](CenteredIsoscelesTriangle.gif)
 
 *This simple Java program prints a Centered IsoscelesTriangle of numbers.*
 
